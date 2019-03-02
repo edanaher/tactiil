@@ -1,0 +1,18 @@
+{
+  "uuid": "0f441257-0fc0-43b5-ba84-80c7cfa8b1e5",
+  "shortName": "tactiil",
+  "longName": "tactiil",
+  "companyName": "edanaher",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
